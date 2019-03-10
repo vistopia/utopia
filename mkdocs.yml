@@ -1,1 +1,6 @@
-site_name: My Docs
+site_name: VISTOPIA
+nav: 
+   - HOME: index.md
+   - GiTS: github.md
+theme: 
+   name: 'material'
