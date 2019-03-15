@@ -2,5 +2,38 @@ site_name: VISTOPIA
 nav: 
    - HOME: index.md
    - GiTS: github.md
-theme: 
-   name: 'material'
+# Project information
+site_description: 'A Material Design theme for MkDocs'
+site_author: 'YaBin'
+#site_url: 'https://squidfunk.github.io/mkdocs-material/'
+
+# Repository
+#repo_name: 'squidfunk/mkdocs-material'
+#repo_url: 'https://github.com/squidfunk/mkdocs-material'
+
+# Copyright
+copyright: 'Copyright &copy; 2018 - 2019 YaBin Liu'
+
+# Configuration
+theme:
+  name: 'material'
+  language: 'en'
+  palette:
+    primary: 'white'
+    accent: 'white'
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
+# Google Analytics
+google_analytics:
+  - 'UA-XXXXXXXX-X'
+  - 'auto'
+
+# Extensions
+markdown_extensions:
+  - admonition
+  - codehilite:
+      guess_lang: false
+  - toc:
+      permalink: true
+
