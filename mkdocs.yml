@@ -4,7 +4,7 @@ nav:
    - GiTS: github.md
    - NEWS: news.md
 # Project information
-site_description: 'A Material Design theme for MkDocs'
+site_description: 'A page for YaBin to write everything'
 site_author: 'YaBin'
 #site_url: 'https://squidfunk.github.io/mkdocs-material/'
 
