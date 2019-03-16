@@ -24,7 +24,7 @@ theme:
     primary: 'white'
     accent: 'white'
   font:
-    text: 'Playfair Display'
+    text: 'Noto Serif SC'
     code: 'Roboto Mono'
 # Google Analytics
 google_analytics:
