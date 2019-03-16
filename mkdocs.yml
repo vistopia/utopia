@@ -2,7 +2,7 @@ site_name: VISTOPIA
 nav: 
    - Home: index.md
    - News: news.md
-   - Gits: github.md
+   - Github: github.md
    - Essay: essay.md
 # Project information
 site_description: 'A page for YaBin to write everything'
