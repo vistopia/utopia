@@ -2,6 +2,7 @@ site_name: VISTOPIA
 nav: 
    - HOME: index.md
    - GiTS: github.md
+   - NEWS: news.md
 # Project information
 site_description: 'A Material Design theme for MkDocs'
 site_author: 'YaBin'
