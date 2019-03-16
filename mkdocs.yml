@@ -1,16 +1,17 @@
 site_name: VISTOPIA
 nav: 
-   - HOME: index.md
-   - GiTS: github.md
-   - NEWS: news.md
+   - Home: index.md
+   - News: news.md
+   - Gits: github.md
+   - Essay: essay.md
 # Project information
 site_description: 'A Material Design theme for MkDocs'
 site_author: 'YaBin'
 #site_url: 'https://squidfunk.github.io/mkdocs-material/'
 
 # Repository
-#repo_name: 'squidfunk/mkdocs-material'
-#repo_url: 'https://github.com/squidfunk/mkdocs-material'
+repo_name: 'vistopia/utopia'
+repo_url: 'https://github.com/vistopia/utopia'
 
 # Copyright
 copyright: 'Copyright &copy; 2018 - 2019 YaBin Liu'
@@ -23,7 +24,7 @@ theme:
     primary: 'white'
     accent: 'white'
   font:
-    text: 'Roboto'
+    text: 'Playfair Display'
     code: 'Roboto Mono'
 # Google Analytics
 google_analytics:
