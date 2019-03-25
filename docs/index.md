@@ -2,6 +2,8 @@
 
 不积硅步无以至千里，不积小流无以成江海
 
+![](https://i.loli.net/2019/03/25/5c989bedeae9a.jpg)
+
 ## [News](https://liuyabin.xyz/news/)
 
 每日摘录来自Google news 的一篇新闻，对其进行翻译和表达自己的观点
