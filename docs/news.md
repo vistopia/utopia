@@ -14,7 +14,7 @@ The administration  estimated that more than 21 million exit-entry permits will 
 
 
 
-## 中国政府精简了国民办理出入境的手续
+##  中国政府精简了国民办理出入境的手续
 
 ​           **2019.3.27.** 北京— 根据国家出入境管理局周二的公告， 中国将会为他的公民精简申请出入境许可证的手续。
 
