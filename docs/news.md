@@ -12,7 +12,9 @@ Citizens no longer need to return to their birthplace to apply for exit-entry pe
 
 The administration  estimated that more than 21 million exit-entry permits will be issued to applicants outside their birthplaces in 2019, saving applicants more than 20 billion yuan (sround $3 billion) of transportation fees.
 
- ## 中国政府精简了国民办理出入境的手续
+
+
+## 中国政府精简了国民办理出入境的手续
 
 ​           **2019.3.27.** 北京— 根据国家出入境管理局周二的公告， 中国将会为他的公民精简申请出入境许可证的手续。
 
